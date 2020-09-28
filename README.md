@@ -21,10 +21,10 @@ The unknown category shows no change.
 
 3- 8 am in the morning and 5-7 pm are the peak hours.
 
-Saturday has a different trade. Busier hours are 11 am to 5 pm.
+Saturday has a different trend. Busier hours are 11 am to 5 pm.
 
 
-4- Women and man show similar trends in trips by gender, however man have more trips. Peak hours are as mentioned in point 3 above.
+4- Women and man show similar trends, however man have more trips. Peak hours are as mentioned in point 3 above.
 
 
 5- Man subscribers are almost twice subscribers for women. 
@@ -38,6 +38,6 @@ Thursday is the busiest day.
 
 2- Tableau does a great job analyzing data and illustrating different graphs. This helps to analyze and showcase. 
 
-3- Bikesharing case is an excellent case for analyzing data with Tableau. The conclusions  like, trips, hours, gender usag, times etc. can clearly be analyzed and visualized to inform the business decision of the business proposal.
+3- Bikesharing case is an excellent case for analyzing data with Tableau. The conclusions  like, trips, hours, gender usage, times etc. can clearly be analyzed and visualized to inform the business decision of the business proposal.
 
 Please visit the site to see the data in my Tableau  https://public.tableau.com/profile/klaudio.kalari#!/vizhome/Module14_16012684627230/Dashboard1
